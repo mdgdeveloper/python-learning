@@ -1,12 +1,5 @@
 import numpy as np
 
-LIMIT = 5
-
-# Pending tasks to implement
-# 1. Error handling
-# 1.1
-# 2.
-
 
 def max_len(operand1, operand2):
     len1 = len(operand1)

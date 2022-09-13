@@ -1,5 +1,7 @@
 # Ejercicio #1: Formateador aritmético 
 
+Este es uno de los ejercicios que forman parte del catálogo básico de ejercicios de Python accesible a través del siguiente repositorio: [https://github.com/mdgdeveloper/python-learning](https://github.com/mdgdeveloper/python-learning)
+
 El primero de los ejercicios con Python ha sido el de crear un formateador aritmético.
 
 La entrada del problema es un array de cadenas de texto de la forma:
@@ -132,5 +134,4 @@ for line in result:
   resultStr = resultStr + line + "\n"
 ```
 
-Con esto concluiríamos con el ejercicio que nos solicitan, habiendo contemplado todos los casos posibles. Mi intención en un futuro es volver a repetir el proceso, pero esta vez con los conocimientos adquiridos y apliando metodologías de testing. 
-
+Con esto concluiríamos con el ejercicio que nos solicitan, habiendo contemplado todos los casos posibles. Mi intención en un futuro es volver a repetir el proceso, pero esta aplicando metodologías de desarrollo más avanzadas e incluyendo testing. 
