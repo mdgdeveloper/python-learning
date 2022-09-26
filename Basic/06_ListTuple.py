@@ -2,7 +2,6 @@
 import sys
 
 numList = sys.argv[1]
-print(type(numList))
 
 arrayList = numList.split(",")
 tupleList = tuple(arrayList)
