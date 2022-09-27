@@ -6,6 +6,6 @@ Version 1.0
 
 # List of resources
 1. Basic Exercises
-  1. Refactor
-  2. Time Calculator
+   1. Refactor
+   2. Time Calculator
   
