@@ -32,5 +32,5 @@ for site in SITES:
     for con in CONNECTION:
         value = f"PEMO - WAN Visualization Tool - 3_CONNECTION - {MISSION}_{site}_{con}\n"
         f.write(value)
-        value = f"PEMO - WAN Visualization Tool - TSVB - {MISSION}_{site}_{con}_INTERFACE"
+        value = f"PEMO - WAN Visualization Tool - TSVB - {MISSION}_{site}_{con}_INTERFACE\n"
         f.write(value)
